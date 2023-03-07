@@ -1,0 +1,1 @@
+This project was developed by following the course called  "Kubernetes for the Absolute Beginners - Hands-on" from Mumshad Mannambeth
